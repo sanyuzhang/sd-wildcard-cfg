@@ -1,0 +1,37 @@
+1girl full body
+sitting chair
+symmetry
+lying_on_water
+crossed arms
+leaning forward
+looking back
+curtsey
+head rest
+heart hands
+claw pose
+paw pose
+salute
+hand on hip
+arms up
+seiza
+on stomach
+hugging own legs
+wariza
+open stance
+{arms raised in the air}
+{{{extend arms straight out}}} 
+front elevation
+reference sheet
+(T-pose:1.4)
+(Spread arms horizontally:1.3)
+(airplane_arms:1.1)
+standing
+(blueprint:1.2)
+(full body:1.2)
+holding
+hensin
+hensin pose
+finger pointing
+contrapposto
+fetal position
+stylish pose
